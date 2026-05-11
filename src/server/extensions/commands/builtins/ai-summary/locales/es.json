@@ -1,0 +1,12 @@
+{
+  "ai-summary": {
+    "name": "Resumen por IA",
+    "description": "Reemplaza el 'Vistazo rápido' con un breve resumen generado por IA utilizando cualquier proveedor compatible con OpenAI",
+    "badge": "Resumen por IA",
+    "dive-deeper": "Profundizar",
+    "follow-up-placeholder": "Haz una pregunta de seguimiento…",
+    "thinking": "Pensando…",
+    "no-response": "No se pudo obtener una respuesta. Inténtalo de nuevo.",
+    "request-failed": "Error en la petición. Inténtalo de nuevo."
+  }
+}
