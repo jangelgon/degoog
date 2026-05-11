@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "degoog",
+    "name": "Degoog",
+    "description": "degoog es un agregador de motores de búsqueda alternativo."
+  },
+  "index-templates": {
+    "footer": {
+      "repo": "repositorio",
+      "docs": "docs"
+    },
+    "header": {
+      "settings-title": "Configuración"
+    },
+    "search": {
+      "search-button": "Buscar con degoog",
+      "feeling-lucky": "Voy a tener suerte",
+      "feeling-curious": "Me siento curioso",
+      "feeling-adventurous": "Me siento aventurero",
+      "feeling-playful": "Me siento juguetón",
+      "feeling-stellar": "Me siento estelar",
+      "feeling-trendy": "Me siento a la moda"
+    }
+  },
+  "search-templates": {
+    "at-a-glance": {
+      "found-on": "Encontrado en: {sources_text}"
+    },
+    "tabs": {
+      "web": "Web",
+      "images": "Imágenes",
+      "videos": "Vídeos",
+      "news": "Noticias",
+      "options": "Opciones",
+      "time": "Fecha",
+      "any-time": "Cualquier fecha",
+      "language": "Idioma",
+      "any": "Cualquiera",
+      "hour": "Última hora",
+      "day": "Últimas 24 horas",
+      "week": "Última semana",
+      "month": "Último mes",
+      "year": "Último año",
+      "custom": "Personalizado...",
+      "date-to": "hasta",
+      "apply": "Aplicar",
+      "filter-languages": "Filtrar idiomas..."
+    },
+    "result": {
+      "insecure": "Inseguro",
+      "insecure-tooltip": "Este sitio se sirve a través de una conexión HTTP no cifrada.",
+      "actions": {
+        "menu-aria": "Acciones del dominio",
+        "block": "Bloquear este dominio",
+        "block-confirm-title": "¿Bloquear dominio?",
+        "block-confirm-message": "Este dominio se eliminará de todos los resultados.",
+        "replace": "Reemplazar este dominio",
+        "score": "Puntuar este dominio",
+        "prompt-target-title": "Reemplazar dominio",
+        "prompt-target": "¿Por qué dominio quieres reemplazarlo?",
+        "prompt-score-title": "Puntuar dominio",
+        "prompt-score": "Puntuación para este dominio (positivo sube, negativo baja):",
+        "modal-confirm": "Confirmar",
+        "modal-cancel": "Cancelar",
+        "scored": "Puntuado"
+      }
+    }
+  }
+}
