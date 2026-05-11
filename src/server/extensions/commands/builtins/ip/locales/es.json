@@ -1,0 +1,20 @@
+{
+  "ip": {
+    "title": "Búsqueda de IP",
+    "description": "Busca información de una dirección IP",
+    "title-result": "Información de IP: {ip}",
+    "detecting": "Detectando tu IP...",
+    "detect-failed": "No se pudo detectar la IP.",
+    "detect-failed-hint": "No se pudo detectar tu IP pública. Prueba con <strong>!ip 8.8.8.8</strong>",
+    "lookup-failed": "Error en la búsqueda: {message}",
+    "fetch-failed": "Error al obtener los datos de la IP. Por favor, inténtalo de nuevo.",
+    "label-ip": "IP",
+    "label-city": "Ciudad",
+    "label-region": "Región",
+    "label-country": "País",
+    "label-isp": "ISP",
+    "label-org": "Org",
+    "label-latlon": "Lat/Lon",
+    "na": "N/A"
+  }
+}
