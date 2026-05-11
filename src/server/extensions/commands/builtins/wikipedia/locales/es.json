@@ -1,0 +1,7 @@
+{
+  "wikipedia": {
+    "name": "Wikipedia",
+    "description": "Muestra una tarjeta de resumen de Wikipedia en la barra lateral cuando la consulta de búsqueda coincide con un artículo.",
+    "view-on-wikipedia": "Wikipedia ↗"
+  }
+}
