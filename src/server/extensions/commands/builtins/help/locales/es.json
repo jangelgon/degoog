@@ -1,0 +1,10 @@
+{
+  "help": {
+    "description": "Lista todos los comandos bang disponibles",
+    "title": "Comandos disponibles",
+    "search-placeholder": "Buscar comandos...",
+    "aliases": "Alias: {aliases}",
+    "prefix-hint": "Busca con un prefijo de tipo: {types}",
+    "category-other": "Otros"
+  }
+}
